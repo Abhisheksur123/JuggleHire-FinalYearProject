@@ -1,10 +1,8 @@
 ## Simple & Powerful Recruitment Software for Small Businesses
 JuggleHire is a recruitment software solution designed to simplify the hiring process for busy professionals. It's aimed at making the hiring journey easy and efficient, catering to recruiters, founders, small businesses owners, and HR professionals.
 
-[Get JuggleHire Today](https://jugglehire.com)
 
 
-![JuggleHire](https://github.com/JuggleHire/.github/assets/33604077/d9b45d59-84d3-4ce9-9d88-c9e8e488c2ad)
 
 
 ## Features
@@ -35,16 +33,6 @@ JuggleHire is a recruitment software solution designed to simplify the hiring pr
 - Finance and Accounting
 - Engineering and Manufacturing
 
-## Resources
-- [Product Roadmap](https://jugglehire.com/roadmap)
-- [Changelog](https://jugglehire.com/changelog)
-- [The Wall of Love](https://jugglehire.com/wall-of-love)
-- [About Us](https://jugglehire.com/about-us)
-- [Contact Us](https://jugglehire.com/contact-us)
-- [Knowledgebase](https://jugglehire.helpcenter.guide/)
-- [Our Community](https://www.facebook.com/groups/jugglehire)
-- [Pricing](https://jugglehire.com/pricing)
-- [Blog](https://jugglehire.com/blog)
 
 
 ## Our Competitors
