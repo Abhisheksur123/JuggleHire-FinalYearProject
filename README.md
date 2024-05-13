@@ -2,6 +2,7 @@
 JuggleHire is a recruitment software solution designed to simplify the hiring process for busy professionals. It's aimed at making the hiring journey easy and efficient, catering to recruiters, founders, small businesses owners, and HR professionals.
 
 
+![image](https://github.com/Abhisheksur123/JuggleHire-FinalYearProject/assets/107261617/de0add16-42c9-4053-9546-098a010c1eb5)
 
 
 
@@ -59,3 +60,4 @@ Start the development server on `http://localhost:3000`:
 ```bash
 yarn dev
 ```
+Any One Can Contribute in This Porject, It contains MIT LICENSE.
